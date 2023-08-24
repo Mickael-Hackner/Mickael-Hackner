@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/mickael-hackner-da-silva-felismino-313007104/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5584981500296&text=sua%20mensagem" target="_blank">
+  <a href="https://contate.me/mickael-hackner" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
