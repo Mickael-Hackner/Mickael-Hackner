@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre mim:<br><br>Sou um estudante dedica e amante da automação! A cada dia aprendo um pouco mais de python e num futuro  não tão distante, serei expert na linguagem.</p>
+<p align="left">Sobre mim:<br><br>Sou um estudante dedicado e amante da automação! A cada dia aprendo um pouco mais de python e num futuro  não tão distante, serei expert na linguagem.</p>
 
 ###
 
